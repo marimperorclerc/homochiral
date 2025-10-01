@@ -58,9 +58,9 @@ def TRIANGLE(a,b):
 # half bow-tie inside Tile(a,b)
 # three edges
 def HALF_BOW_TIE_EDGES(a,b):
-    return [scale(e_unit[9],a),
+    return [scale(e_unit[9],b),
             scale(e_unit[11],b),
-            scale(e_unit[8],b)
+            scale(e_unit[8],a)
   ]
 
 # half bow-tie
@@ -88,3 +88,4 @@ def T_base(a,b):
         base_list+=[p]
     
     return base_list
+
