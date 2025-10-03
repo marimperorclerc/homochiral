@@ -20,6 +20,8 @@ Rv=R
 
 #horizontal mirror
 Rh=[1, 0, 0, 0, -1, 0]
+# used because y axis is downwards in svg graphics
+Rsvg=Rh
 
 # Translation matrix
 def ttrans(tx, ty):

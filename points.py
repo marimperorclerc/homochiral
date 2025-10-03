@@ -37,6 +37,11 @@ def distance(pta,ptb):
     dist=np.sqrt(deltax**2+deltay**2)
     return dist
 
+# horizontal reflection 
+# used because y axis is downwards in svg graphics
+def svg(point):
+    return pt(point.x,-point.y)
+# equivalent to transPt(Rsvg, P) where P is a point
 
 # ancillary function for drawing an arrow at one extremity of a segment
 # arrow is oriented from point pta to point ptb

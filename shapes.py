@@ -77,6 +77,15 @@ def HALF_BOW_TIE(a,b):
     
     return tile_list
 
+def TRIFLE(a,b): # center of trifle plus the three extremities
+    pt1=TILE(a,b)[2]
+    pt2=TILE(a,b)[6]
+    pt3=TILE(a,b)[10]
+    centerx=(pt1.x+pt2.x+pt3.x)/3
+    centery=(pt1.y+pt2.y+pt3.y)/3
+    center=pt(centerx,centery)
+    return [center,pt1,pt2,pt3]
+
 # T_base(a,b)
 def T_base(a,b):
     base_list=[]
@@ -88,4 +97,14 @@ def T_base(a,b):
         base_list+=[p]
     
     return base_list
+
+
+# three green points in a cluster
+def GREEN_POINTS(a,b):
+    green_0=pt(T_base(b,a)[7].x+TILE(a,b)[10].x,T_base(b,a)[7].y+TILE(a,b)[10].y)
+    green_2=pt(T_base(b,a)[3].x+TILE(a,b)[6].x, T_base(b,a)[3].y+TILE(a,b)[6].y)
+    green_4=pt(T_base(b,a)[11].x+TILE(a,b)[2].x,T_base(b,a)[11].y+TILE(a,b)[2].y)
+    
+    return [green_0,green_2,green_4]
+
 
