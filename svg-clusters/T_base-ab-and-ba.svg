@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100" height="100" viewBox="-50.0 -50.0 100 100">
+<defs>
+<path d="M0,0 L3.4641016151377517,-8.660254037844389" id="d0" />
+<path d="M3.740563324412957,-6.7414083110324 L3.4641016151377517,-8.660254037844389 L1.9405633244129563,-7.4614083110323985" id="d1" />
+<path d="M0,0 L9.232050807568879,-1.330127018922198" id="d2" />
+<path d="M7.708512516844084,-0.13128129211020767 L9.232050807568879,-1.330127018922198 L7.432050807568879,-2.0501270189221974" id="d3" />
+<path d="M0,0 L5.767949192431128,7.330127018922191" id="d4" />
+<path d="M3.967949192431127,6.610127018922191 L5.767949192431128,7.330127018922191 L5.491487483155923,5.411281292110201" id="d5" />
+<path d="M0,0 L-3.464101615137751,8.660254037844389" id="d6" />
+<path d="M-3.740563324412956,6.7414083110324 L-3.464101615137751,8.660254037844389 L-1.9405633244129559,7.4614083110323985" id="d7" />
+<path d="M0,0 L-9.232050807568879,1.3301270189222012" id="d8" />
+<path d="M-7.708512516844084,0.13128129211021033 L-9.232050807568879,1.3301270189222012 L-7.432050807568879,2.0501270189222" id="d9" />
+<path d="M0,0 L-5.767949192431125,-7.330127018922193" id="d10" />
+<path d="M-3.967949192431125,-6.610127018922193 L-5.767949192431125,-7.330127018922193 L-5.491487483155921,-5.4112812921102025" id="d11" />
+<path d="M0,0 L7.330127018922191,-5.767949192431127" id="d12" />
+<path d="M6.610127018922191,-3.967949192431126 L7.330127018922191,-5.767949192431127 L5.411281292110201,-5.491487483155922" id="d13" />
+<path d="M0,0 L8.660254037844389,3.4641016151377513" id="d14" />
+<path d="M6.7414083110324,3.740563324412956 L8.660254037844389,3.4641016151377513 L7.4614083110323985,1.9405633244129559" id="d15" />
+<path d="M0,0 L1.3301270189221959,9.232050807568879" id="d16" />
+<path d="M0.13128129211020567,7.708512516844084 L1.3301270189221959,9.232050807568879 L2.050127018922195,7.432050807568879" id="d17" />
+<path d="M0,0 L-7.33012701892219,5.767949192431129" id="d18" />
+<path d="M-6.610127018922191,3.9679491924311274 L-7.33012701892219,5.767949192431129 L-5.411281292110201,5.491487483155923" id="d19" />
+<path d="M0,0 L-8.660254037844389,-3.46410161513775" id="d20" />
+<path d="M-6.7414083110324,-3.740563324412955 L-8.660254037844389,-3.46410161513775 L-7.4614083110323985,-1.940563324412955" id="d21" />
+<path d="M0,0 L-1.3301270189222016,-9.232050807568877" id="d22" />
+<path d="M-0.13128129211021078,-7.708512516844082 L-1.3301270189222016,-9.232050807568877 L-2.0501270189222,-7.432050807568877" id="d23" />
+<path d="M0,0 L8.660254037844387,-3.464101615137756" id="d24" />
+<path d="M7.4614083110323985,-1.94056332441296 L8.660254037844387,-3.464101615137756 L6.741408311032398,-3.74056332441296" id="d25" />
+<path d="M0,0 L7.330127018922196,5.7679491924311215" id="d26" />
+<path d="M5.411281292110207,5.491487483155918 L7.330127018922196,5.7679491924311215 L6.610127018922196,3.967949192431122" id="d27" />
+<path d="M0,0 L-1.33012701892219,9.232050807568879" id="d28" />
+<path d="M-2.0501270189221907,7.43205080756888 L-1.33012701892219,9.232050807568879 L-0.13128129211020123,7.708512516844083" id="d29" />
+<path d="M0,0 L-8.660254037844387,3.464101615137757" id="d30" />
+<path d="M-7.4614083110323985,1.940563324412961 L-8.660254037844387,3.464101615137757 L-6.741408311032398,3.740563324412961" id="d31" />
+<path d="M0,0 L-7.330127018922198,-5.76794919243112" id="d32" />
+<path d="M-5.411281292110209,-5.491487483155917 L-7.330127018922198,-5.76794919243112 L-6.6101270189221975,-3.9679491924311203" id="d33" />
+<path d="M0,0 L1.3301270189221932,-9.232050807568879" id="d34" />
+<path d="M2.0501270189221934,-7.43205080756888 L1.3301270189221932,-9.232050807568879 L0.13128129211020367,-7.708512516844083" id="d35" />
+<path d="M0,0 L9.232050807568879,1.330127018922191" id="d36" />
+<path d="M7.43205080756888,2.0501270189221916 L9.232050807568879,1.330127018922191 L7.708512516844083,0.1312812921102019" id="d37" />
+<path d="M0,0 L3.4641016151377566,8.660254037844387" id="d38" />
+<path d="M1.9405633244129605,7.4614083110323985 L3.4641016151377566,8.660254037844387 L3.7405633244129604,6.741408311032398" id="d39" />
+<path d="M0,0 L-5.767949192431123,7.3301270189221945" id="d40" />
+<path d="M-5.491487483155919,5.411281292110205 L-5.767949192431123,7.3301270189221945 L-3.9679491924311234,6.610127018922194" id="d41" />
+<path d="M0,0 L-9.232050807568879,-1.3301270189221892" id="d42" />
+<path d="M-7.43205080756888,-2.05012701892219 L-9.232050807568879,-1.3301270189221892 L-7.708512516844083,-0.13128129211020034" id="d43" />
+<path d="M0,0 L-3.464101615137758,-8.660254037844387" id="d44" />
+<path d="M-1.9405633244129619,-7.4614083110323985 L-3.464101615137758,-8.660254037844387 L-3.7405633244129617,-6.741408311032398" id="d45" />
+<path d="M0,0 L5.767949192431119,-7.330127018922198" id="d46" />
+<path d="M5.491487483155916,-5.411281292110209 L5.767949192431119,-7.330127018922198 L3.9679491924311194,-6.6101270189221975" id="d47" />
+<path d="M0,0 L5.0,0.0 L7.5,-4.330127018922193 L9.232050807568877,-3.3301270189221928 L9.232050807568877,-1.3301270189221928 L14.232050807568877,-1.3301270189221928 L16.73205080756888,3.0 L15.000000000000002,4.0 L13.267949192431125,3.0000000000000004 L10.767949192431125,7.3301270189221945 L5.767949192431125,7.330127018922195 L0.767949192431125,7.330127018922196 L-1.7320508075688772,3.0000000000000036 L-4.440892098500626e-16,2.0000000000000027 L-8.114832495942686e-16,2.6645352591003757e-15 Z" id="d48" />
+<path d="M0,0 L9.232050807568877,-1.3301270189221928 L5.767949192431125,7.330127018922195 Z" id="d49" />
+<path d="M8.192153903091736,3.8796152422706642 L7.915692193816531,1.9607695154586746 L6.392153903091735,3.1596152422706654" id="d50" />
+<path d="M0,0 L2.0,0.0 L3.0,-1.7320508075688772 L7.330127018922194,0.7679491924311224 L7.330127018922194,5.767949192431122 L9.330127018922195,5.767949192431122 L10.330127018922195,7.5 L6.000000000000001,10.0 L1.6698729810778064,7.500000000000002 L0.6698729810778068,9.232050807568879 L-1.3301270189221932,9.232050807568879 L-3.330127018922193,9.232050807568879 L-4.3301270189221945,7.500000000000002 L-2.6645352591003757e-15,5.0 L-3.583020358460891e-15,0.0 Z" id="d51" />
+<path d="M0,0 L7.330127018922194,5.767949192431122 L-1.3301270189221932,9.232050807568879 Z" id="d52" />
+<path d="M2.8403847577293373,8.607846096908265 L4.039230484541326,7.084307806183469 L2.1203847577293367,6.807846096908265" id="d53" />
+<path d="M0,0 L3.4641016151377517,-8.660254037844389" id="d54" />
+<path d="M3.740563324412957,-6.7414083110324 L3.4641016151377517,-8.660254037844389 L1.9405633244129563,-7.4614083110323985" id="d55" />
+<path d="M0,0 L8.660254037844387,-3.464101615137756" id="d56" />
+<path d="M7.4614083110323985,-1.94056332441296 L8.660254037844387,-3.464101615137756 L6.741408311032398,-3.74056332441296" id="d57" />
+</defs>
+<text x="0" y="-15.0" font-size="1.2">Tile(5,2)</text>
+<text x="30" y="-15.0" font-size="1.2">Tile(2,5)</text>
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d1" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d2" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d3" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d4" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d5" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d6" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d7" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d8" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d9" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d10" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d11" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d12" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d13" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d14" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d15" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d16" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d17" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d18" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d19" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d20" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d21" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d22" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d23" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d24" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d25" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d26" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d27" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d28" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d29" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d30" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d31" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d32" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d33" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d34" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d35" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d36" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d37" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d38" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d39" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d40" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d41" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d42" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d43" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d44" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d45" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d46" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d47" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="cyan" stroke-width="0.1" />
+<use xlink:href="#d48" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d49" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d50" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d51" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d52" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d53" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="magenta" stroke-width="0.1" />
+<use xlink:href="#d54" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="green" stroke-width="0.1" />
+<use xlink:href="#d55" x="0" y="0" transform="matrix(1 0 0 -1 0 0)" fill="none" stroke="green" stroke-width="0.1" />
+<use xlink:href="#d56" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="green" stroke-width="0.1" />
+<use xlink:href="#d57" x="0" y="0" transform="matrix(1 0 0 -1 30 0)" fill="none" stroke="green" stroke-width="0.1" />
+</svg>
