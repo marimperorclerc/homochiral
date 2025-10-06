@@ -101,10 +101,10 @@ def T_base(a,b):
 
 # three green points in a cluster
 def GREEN_POINTS(a,b):
-    green_0=pt(T_base(b,a)[7].x+TILE(a,b)[10].x,T_base(b,a)[7].y+TILE(a,b)[10].y)
-    green_2=pt(T_base(b,a)[3].x+TILE(a,b)[6].x, T_base(b,a)[3].y+TILE(a,b)[6].y)
-    green_4=pt(T_base(b,a)[11].x+TILE(a,b)[2].x,T_base(b,a)[11].y+TILE(a,b)[2].y)
-    
+    green_0=add_pt(T_base(b,a)[7],TILE(a,b)[10])
+    green_2=add_pt(T_base(b,a)[3],TILE(a,b)[6])
+    green_4=add_pt(T_base(b,a)[11],TILE(a,b)[2])
+   
     return [green_0,green_2,green_4]
 
 
