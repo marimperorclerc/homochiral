@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="125.00676mm"
-   height="137.52415mm"
-   viewBox="0 0 125.00676 137.52415"
+   height="147.90222mm"
+   viewBox="0 0 125.00676 147.90222"
    version="1.1"
    id="svg315542"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -943,9 +943,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.113235"
-     inkscape:cx="370.36427"
-     inkscape:cy="53.631004"
+     inkscape:zoom="1.3891543"
+     inkscape:cx="293.92127"
+     inkscape:cy="44.899825"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -971,7 +971,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(27.87132,19.832229)">
+     transform="translate(27.87132,30.210293)">
     <g
        transform="translate(16.230824,-13.059188)"
        id="g104699">
@@ -39736,5 +39736,16 @@
          d="m 849.15816,341.58118 70.16647,21.95284 -54.09523,49.78915 -16.07124,-71.74199"
          id="path8468-6-85-6-4-3" />
     </g>
+    <text
+       id="text217642"
+       y="-25.736794"
+       x="-10.284926"
+       style="font-style:normal;font-weight:normal;font-size:5.8504px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14626"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.14626"
+         y="-25.736794"
+         x="-10.284926"
+         id="tspan217640"
+         sodipodi:role="line">spectre tiles with left chirality</tspan></text>
   </g>
 </svg>
