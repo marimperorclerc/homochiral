@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="50" height="50" viewBox="-25.0 -25.0 50 50">
+<defs>
+<path d="M0,0 L1.0,0.0 L1.5,-0.8660254037844386 L2.3660254037844384,-0.3660254037844386 L2.3660254037844384,0.6339745962155614 L3.3660254037844384,0.6339745962155614 L3.8660254037844384,1.5 L3.0,2.0 L2.1339745962155616,1.5 L1.6339745962155614,2.3660254037844384 L0.6339745962155614,2.3660254037844384 L-0.3660254037844386,2.3660254037844384 L-0.8660254037844386,1.5 L0.0,1.0 Z" id="d0" />
+</defs>
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1 0 0 1 0 0)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000001 0.8660254037844386 -0.8660254037844386 0.5000000000000001 -1.5000000000000002 -0.8660254037844388)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000001 0.8660254037844386 -0.8660254037844386 0.5000000000000001 -3.2320508075688767 0.866025403784439)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 0.8660254037844387 -0.8660254037844387 -0.4999999999999998 -3.2320508075688767 -0.8660254037844382)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 1.2246467991473532e-16 -1.2246467991473532e-16 -1.0 -1.7320508075688776 -1.7320508075688765)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 1.2246467991473532e-16 -1.2246467991473532e-16 -1.0 -2.36602540378444 -4.098076211353315)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5000000000000004 -0.8660254037844385 0.8660254037844385 -0.5000000000000004 -0.8660254037844388 -3.2320508075688767)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 0.8660254037844387 -0.8660254037844387 -0.4999999999999998 3.232050807568877 -2.598076211353317)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.8660254037844385 0.5000000000000002 -0.5000000000000002 -0.8660254037844385 0.8660254037844388 -1.5000000000000004)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000001 -0.8660254037844386 0.8660254037844386 0.5000000000000001 10.330127018922191 -1.9641016151377555)" fill="rgb(255, 126, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 8.830127018922191 -1.098076211353317)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 9.464101615137752 1.2679491924311213)" fill="rgb(255, 126, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 0.8660254037844386 -0.8660254037844386 0.5 7.964101615137753 0.40192378864668243)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 0.8660254037844387 -0.8660254037844387 -0.5 7.964101615137753 -1.3301270189221936)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 0.8660254037844387 -0.8660254037844387 -0.5 5.598076211353313 -1.9641016151377542)" fill="rgb(0, 50, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 3.3306690738754696e-16 -3.3306690738754696e-16 -1.0 7.098076211353314 -2.830127018922194)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 0.8660254037844386 -0.8660254037844386 0.5 9.696152422706628 -6.062177826491071)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.1102230246251565e-16 1.0 -1.0 1.1102230246251565e-16 9.464101615137752 -3.4641016151377553)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000001 -0.8660254037844386 0.8660254037844386 0.5000000000000001 13.964101615137752 6.866025403784436)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 12.464101615137752 7.732050807568874)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 13.098076211353312 10.098076211353312)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 0.8660254037844386 -0.8660254037844386 0.5 11.598076211353312 9.232050807568873)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 0.8660254037844387 -0.8660254037844387 -0.5 11.598076211353312 7.499999999999997)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 0.8660254037844387 -0.8660254037844387 -0.5 9.232050807568875 6.8660254037844375)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 3.3306690738754696e-16 -3.3306690738754696e-16 -1.0 10.732050807568875 5.999999999999997)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 0.8660254037844386 -0.8660254037844386 0.5 13.33012701892219 2.7679491924311197)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.1102230246251565e-16 1.0 -1.0 1.1102230246251565e-16 13.098076211353312 5.366025403784436)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 -0.8660254037844387 0.8660254037844387 -0.4999999999999998 17.428203230275507 -3.062177826491073)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 -0.8660254037844386 0.8660254037844386 0.5 17.428203230275507 -1.3301270189221956)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 -0.8660254037844386 0.8660254037844386 0.5 19.794228634059944 -0.6961524227066347)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.9999999999999999 0.0 0.0 0.9999999999999999 18.294228634059944 0.16987298107780324)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 0.8660254037844386 -0.8660254037844386 0.4999999999999999 16.794228634059944 -0.6961524227066347)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 0.8660254037844386 -0.8660254037844386 0.4999999999999999 15.06217782649107 1.035898384862243)" fill="rgb(0, 50, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 0.8660254037844388 -0.8660254037844388 -0.4999999999999998 15.06217782649107 -0.6961524227066351)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.9999999999999999 0.0 0.0 0.9999999999999999 13.562177826491068 -4.562177826491073)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.8660254037844386 0.4999999999999999 -0.4999999999999999 0.8660254037844386 15.696152422706628 -3.062177826491073)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 -1.2246467991473532e-16 1.2246467991473532e-16 -1.0 10.56217782649107 -11.026279441628827)" fill="rgb(255, 126, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 -0.8660254037844387 0.8660254037844387 -0.5 12.06217782649107 -10.160254037844387)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 -0.8660254037844387 0.8660254037844387 -0.5 13.794228634059946 -11.892304845413266)" fill="rgb(255, 126, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 -0.8660254037844386 0.8660254037844386 0.4999999999999999 13.794228634059946 -10.160254037844387)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 12.294228634059946 -9.29422863405995)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 12.928203230275509 -6.928203230275511)" fill="rgb(0, 50, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000003 0.8660254037844386 -0.8660254037844386 0.5000000000000003 11.428203230275507 -7.79422863405995)" fill="rgb(120, 0, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 -0.8660254037844386 0.8660254037844386 0.4999999999999999 7.330127018922192 -8.42820323027551)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.8660254037844385 -0.5000000000000001 0.5000000000000001 0.8660254037844385 9.69615242270663 -9.526279441628827)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 -1.2246467991473532e-16 1.2246467991473532e-16 -1.0 16.39230484541326 -18.588457268119896)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 -0.8660254037844387 0.8660254037844387 -0.5 17.89230484541326 -17.72243186433546)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5 -0.8660254037844387 0.8660254037844387 -0.5 19.62435565298214 -19.454482671904334)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 -0.8660254037844386 0.8660254037844386 0.4999999999999999 19.62435565298214 -17.72243186433546)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 18.12435565298214 -16.85640646055102)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 18.7583302491977 -14.49038105676658)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000003 0.8660254037844386 -0.8660254037844386 0.5000000000000003 17.258330249197698 -15.35640646055102)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 -0.8660254037844386 0.8660254037844386 0.4999999999999999 13.160254037844382 -15.99038105676658)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.8660254037844385 -0.5000000000000001 0.5000000000000001 0.8660254037844385 15.52627944162882 -17.088457268119896)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.5000000000000004 0.8660254037844385 -0.8660254037844385 -0.5000000000000004 6.062177826491067 -16.624355652982146)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 -3.3306690738754696e-16 3.3306690738754696e-16 -1.0 7.562177826491068 -17.490381056766584)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-1.0 -3.3306690738754696e-16 3.3306690738754696e-16 -1.0 6.928203230275506 -19.856406460551025)" fill="rgb(0, 143, 207)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 -0.8660254037844388 0.8660254037844388 -0.4999999999999998 8.428203230275507 -18.990381056766584)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000003 -0.8660254037844386 0.8660254037844386 0.5000000000000003 8.428203230275505 -17.25833024919771)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5000000000000003 -0.8660254037844386 0.8660254037844386 0.5000000000000003 10.794228634059944 -16.624355652982146)" fill="rgb(0, 50, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.0 0.0 0.0 1.0 9.294228634059944 -15.758330249197707)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 -0.8660254037844388 0.8660254037844388 -0.4999999999999998 6.696152422706628 -12.52627944162883)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(1.6653345369377348e-16 -1.0 1.0 1.6653345369377348e-16 6.928203230275505 -15.124355652982146)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 -0.8660254037844387 0.8660254037844387 -0.4999999999999998 4.964101615137749 -10.794228634059953)" fill="rgb(0, 50, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.5 -0.8660254037844386 0.8660254037844386 0.5 4.964101615137748 -9.062177826491077)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.9999999999999999 0.0 0.0 0.9999999999999999 5.830127018922187 -7.562177826491077)" fill="rgb(255, 0, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 0.8660254037844386 -0.8660254037844386 0.4999999999999999 4.330127018922188 -8.428203230275514)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.4999999999999999 0.8660254037844386 -0.8660254037844386 0.4999999999999999 2.598076211353311 -6.696152422706637)" fill="rgb(255, 126, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(-0.4999999999999998 0.8660254037844388 -0.8660254037844388 -0.4999999999999998 2.5980762113533107 -8.428203230275516)" fill="rgb(0, 226, 0)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.9999999999999999 0.0 0.0 0.9999999999999999 1.0980762113533102 -12.294228634059953)" fill="rgb(255, 255, 255)" stroke="black" stroke-width="0.1" />
+<use xlink:href="#d0" x="0" y="0" transform="matrix(0.8660254037844386 0.4999999999999999 -0.4999999999999999 0.8660254037844386 3.2320508075688714 -10.794228634059953)" fill="rgb(255, 200, 255)" stroke="black" stroke-width="0.1" />
+</svg>
