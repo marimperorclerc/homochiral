@@ -9,14 +9,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="spectre-all-colors-Psi-2-iterations.svg"
-   id="svg1842"
+   sodipodi:docname="spectre-all-colors-Phi-2-iterations.svg"
+   id="svg21772"
    version="1.1"
    viewBox="-25.0 -25.0 50 50"
    height="50"
    width="50">
   <metadata
-     id="metadata1846">
+     id="metadata21776">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,17 +27,17 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg1842"
-     inkscape:window-maximized="1"
-     inkscape:window-y="86"
-     inkscape:window-x="1948"
-     inkscape:cy="15.88519"
-     inkscape:cx="47.125601"
-     inkscape:zoom="11.326864"
+     inkscape:current-layer="svg21772"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="25"
+     inkscape:cx="25"
+     inkscape:zoom="5.0009302"
      showgrid="false"
-     id="namedview1844"
-     inkscape:window-height="1040"
-     inkscape:window-width="1920"
+     id="namedview21774"
+     inkscape:window-height="480"
+     inkscape:window-width="1121"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -47,13 +47,13 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <defs
-     id="defs1698">
+     id="defs21628">
     <path
        id="d0"
        d="M0,0 L1.0,0.0 L1.5,-0.8660254037844386 L2.3660254037844384,-0.3660254037844386 L2.3660254037844384,0.6339745962155614 L3.3660254037844384,0.6339745962155614 L3.8660254037844384,1.5 L3.0,2.0 L2.1339745962155616,1.5 L1.6339745962155614,2.3660254037844384 L0.6339745962155614,2.3660254037844384 L-0.3660254037844386,2.3660254037844384 L-0.8660254037844386,1.5 L0.0,1.0 Z" />
   </defs>
   <g
-     id="g23531">
+     id="g23661">
     <use
        xlink:href="#d0"
        x="0"
@@ -62,7 +62,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1700" />
+       id="use21630" />
     <use
        xlink:href="#d0"
        x="0"
@@ -71,7 +71,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1702" />
+       id="use21632" />
     <use
        xlink:href="#d0"
        x="0"
@@ -80,7 +80,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1704" />
+       id="use21634" />
     <use
        xlink:href="#d0"
        x="0"
@@ -89,7 +89,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1706" />
+       id="use21636" />
     <use
        xlink:href="#d0"
        x="0"
@@ -98,7 +98,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1708" />
+       id="use21638" />
     <use
        xlink:href="#d0"
        x="0"
@@ -107,7 +107,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1710" />
+       id="use21640" />
     <use
        xlink:href="#d0"
        x="0"
@@ -116,7 +116,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1712" />
+       id="use21642" />
     <use
        xlink:href="#d0"
        x="0"
@@ -125,7 +125,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1714" />
+       id="use21644" />
     <use
        xlink:href="#d0"
        x="0"
@@ -134,7 +134,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1716" />
+       id="use21646" />
     <use
        xlink:href="#d0"
        x="0"
@@ -143,7 +143,7 @@
        fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1718" />
+       id="use21648" />
     <use
        xlink:href="#d0"
        x="0"
@@ -152,7 +152,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1720" />
+       id="use21650" />
     <use
        xlink:href="#d0"
        x="0"
@@ -161,7 +161,7 @@
        fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1722" />
+       id="use21652" />
     <use
        xlink:href="#d0"
        x="0"
@@ -170,7 +170,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1724" />
+       id="use21654" />
     <use
        xlink:href="#d0"
        x="0"
@@ -179,7 +179,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1726" />
+       id="use21656" />
     <use
        xlink:href="#d0"
        x="0"
@@ -188,7 +188,7 @@
        fill="rgb(0, 50, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1728" />
+       id="use21658" />
     <use
        xlink:href="#d0"
        x="0"
@@ -197,7 +197,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1730" />
+       id="use21660" />
     <use
        xlink:href="#d0"
        x="0"
@@ -206,7 +206,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1732" />
+       id="use21662" />
     <use
        xlink:href="#d0"
        x="0"
@@ -215,7 +215,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1734" />
+       id="use21664" />
     <use
        xlink:href="#d0"
        x="0"
@@ -224,7 +224,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1736" />
+       id="use21666" />
     <use
        xlink:href="#d0"
        x="0"
@@ -233,7 +233,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1738" />
+       id="use21668" />
     <use
        xlink:href="#d0"
        x="0"
@@ -242,7 +242,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1740" />
+       id="use21670" />
     <use
        xlink:href="#d0"
        x="0"
@@ -251,7 +251,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1742" />
+       id="use21672" />
     <use
        xlink:href="#d0"
        x="0"
@@ -260,7 +260,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1744" />
+       id="use21674" />
     <use
        xlink:href="#d0"
        x="0"
@@ -269,7 +269,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1746" />
+       id="use21676" />
     <use
        xlink:href="#d0"
        x="0"
@@ -278,7 +278,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1748" />
+       id="use21678" />
     <use
        xlink:href="#d0"
        x="0"
@@ -287,7 +287,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1750" />
+       id="use21680" />
     <use
        xlink:href="#d0"
        x="0"
@@ -296,7 +296,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1752" />
+       id="use21682" />
     <use
        xlink:href="#d0"
        x="0"
@@ -305,7 +305,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1754" />
+       id="use21684" />
     <use
        xlink:href="#d0"
        x="0"
@@ -314,7 +314,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1756" />
+       id="use21686" />
     <use
        xlink:href="#d0"
        x="0"
@@ -323,7 +323,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1758" />
+       id="use21688" />
     <use
        xlink:href="#d0"
        x="0"
@@ -332,7 +332,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1760" />
+       id="use21690" />
     <use
        xlink:href="#d0"
        x="0"
@@ -341,7 +341,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1762" />
+       id="use21692" />
     <use
        xlink:href="#d0"
        x="0"
@@ -350,7 +350,7 @@
        fill="rgb(0, 50, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1764" />
+       id="use21694" />
     <use
        xlink:href="#d0"
        x="0"
@@ -359,7 +359,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1766" />
+       id="use21696" />
     <use
        xlink:href="#d0"
        x="0"
@@ -368,7 +368,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1768" />
+       id="use21698" />
     <use
        xlink:href="#d0"
        x="0"
@@ -377,7 +377,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1770" />
+       id="use21700" />
     <use
        xlink:href="#d0"
        x="0"
@@ -386,7 +386,7 @@
        fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1772" />
+       id="use21702" />
     <use
        xlink:href="#d0"
        x="0"
@@ -395,7 +395,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1774" />
+       id="use21704" />
     <use
        xlink:href="#d0"
        x="0"
@@ -404,7 +404,7 @@
        fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1776" />
+       id="use21706" />
     <use
        xlink:href="#d0"
        x="0"
@@ -413,7 +413,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1778" />
+       id="use21708" />
     <use
        xlink:href="#d0"
        x="0"
@@ -422,7 +422,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1780" />
+       id="use21710" />
     <use
        xlink:href="#d0"
        x="0"
@@ -431,7 +431,7 @@
        fill="rgb(0, 50, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1782" />
+       id="use21712" />
     <use
        xlink:href="#d0"
        x="0"
@@ -440,7 +440,7 @@
        fill="rgb(120, 0, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1784" />
+       id="use21714" />
     <use
        xlink:href="#d0"
        x="0"
@@ -449,7 +449,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1786" />
+       id="use21716" />
     <use
        xlink:href="#d0"
        x="0"
@@ -458,7 +458,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1788" />
+       id="use21718" />
     <use
        xlink:href="#d0"
        x="0"
@@ -467,7 +467,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1790" />
+       id="use21720" />
     <use
        xlink:href="#d0"
        x="0"
@@ -476,16 +476,16 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1792" />
+       id="use21722" />
     <use
        xlink:href="#d0"
        x="0"
        y="0"
        transform="matrix(-0.5 -0.8660254037844387 0.8660254037844387 -0.5 19.62435565298214 -19.454482671904334)"
-       fill="rgb(0, 143, 207)"
+       fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1794" />
+       id="use21724" />
     <use
        xlink:href="#d0"
        x="0"
@@ -494,7 +494,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1796" />
+       id="use21726" />
     <use
        xlink:href="#d0"
        x="0"
@@ -503,7 +503,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1798" />
+       id="use21728" />
     <use
        xlink:href="#d0"
        x="0"
@@ -512,7 +512,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1800" />
+       id="use21730" />
     <use
        xlink:href="#d0"
        x="0"
@@ -521,7 +521,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1802" />
+       id="use21732" />
     <use
        xlink:href="#d0"
        x="0"
@@ -530,7 +530,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1804" />
+       id="use21734" />
     <use
        xlink:href="#d0"
        x="0"
@@ -539,7 +539,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1806" />
+       id="use21736" />
     <use
        xlink:href="#d0"
        x="0"
@@ -548,7 +548,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1808" />
+       id="use21738" />
     <use
        xlink:href="#d0"
        x="0"
@@ -557,7 +557,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1810" />
+       id="use21740" />
     <use
        xlink:href="#d0"
        x="0"
@@ -566,7 +566,7 @@
        fill="rgb(0, 143, 207)"
        stroke="black"
        stroke-width="0.1"
-       id="use1812" />
+       id="use21742" />
     <use
        xlink:href="#d0"
        x="0"
@@ -575,7 +575,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1814" />
+       id="use21744" />
     <use
        xlink:href="#d0"
        x="0"
@@ -584,7 +584,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1816" />
+       id="use21746" />
     <use
        xlink:href="#d0"
        x="0"
@@ -593,7 +593,7 @@
        fill="rgb(0, 50, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1818" />
+       id="use21748" />
     <use
        xlink:href="#d0"
        x="0"
@@ -602,7 +602,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1820" />
+       id="use21750" />
     <use
        xlink:href="#d0"
        x="0"
@@ -611,7 +611,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1822" />
+       id="use21752" />
     <use
        xlink:href="#d0"
        x="0"
@@ -620,7 +620,7 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1824" />
+       id="use21754" />
     <use
        xlink:href="#d0"
        x="0"
@@ -629,7 +629,7 @@
        fill="rgb(0, 50, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1826" />
+       id="use21756" />
     <use
        xlink:href="#d0"
        x="0"
@@ -638,7 +638,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1828" />
+       id="use21758" />
     <use
        xlink:href="#d0"
        x="0"
@@ -647,7 +647,7 @@
        fill="rgb(255, 0, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1830" />
+       id="use21760" />
     <use
        xlink:href="#d0"
        x="0"
@@ -656,7 +656,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1832" />
+       id="use21762" />
     <use
        xlink:href="#d0"
        x="0"
@@ -665,7 +665,7 @@
        fill="rgb(255, 126, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1834" />
+       id="use21764" />
     <use
        xlink:href="#d0"
        x="0"
@@ -674,7 +674,7 @@
        fill="rgb(0, 226, 0)"
        stroke="black"
        stroke-width="0.1"
-       id="use1836" />
+       id="use21766" />
     <use
        xlink:href="#d0"
        x="0"
@@ -683,7 +683,7 @@
        fill="rgb(255, 255, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1838" />
+       id="use21768" />
     <use
        xlink:href="#d0"
        x="0"
@@ -692,6 +692,6 @@
        fill="rgb(255, 200, 255)"
        stroke="black"
        stroke-width="0.1"
-       id="use1840" />
+       id="use21770" />
   </g>
 </svg>
